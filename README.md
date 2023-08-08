@@ -1,13 +1,6 @@
 # connect_4_AI_python
-My project named "Connect-4" board game is made by using python's Pygame library. 
-It uses the infamous "Minimax" algorithm.
+This is an AI for the 2 player connect-4 game bult using Pygame and Numpy libraries of 
+python. It uses the mini-max algorithm to forsee the various possible outcomes and picks the best
+move available to potentially win the game.
 
-It's a Two Player game, wherein the human tries to "Win" and make AI's moves less effective whereas the 
-AI tries to maximize it's move's effectiveness.
-
-This AI uses Backtracking,
-tries out all the future possibilities, 
-and accordingly choses the best move to play at the current moment.
-
-The strength of the AI(i.e. how far into the future can it think) can be varied.
-This is done by changing the depth to which it can forsee the events.
+The strength of the AI(i.e. how far into the future can it think) is set as 6 levels of recursion deep but can be varied.
