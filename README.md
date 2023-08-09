@@ -1,4 +1,4 @@
-# connect_4_AI_python
+# Connect-4 AI
 This is an AI for the 2 player connect-4 game bult using Pygame and Numpy libraries of 
 python. It uses the mini-max algorithm to forsee the various possible outcomes and picks the best
 move available to potentially win the game.
